@@ -18,6 +18,7 @@ namespace ComtradeGo
         public Form1()
         {
             InitializeComponent();
+            MaximizeBox = false;
             TipDropFilesHere();
         }
 
